@@ -1,0 +1,8 @@
+name = "CxxTest"
+uuid = "64d9ac71-e0f3-4955-9a98-e2b9dc2ce122"
+authors = ["Bart Janssens <bart@bartjanssens.org>"]
+version = "0.1.0"
+
+[deps]
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+coordgenlibs_jll = "f6050b86-aaaf-512f-8549-0afff1b4d57f"
